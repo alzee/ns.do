@@ -1,3 +1,3 @@
 # ns.do
 
-A Transient Subdomain. Short is good.
+Temporary Subdomains. Short is good.
