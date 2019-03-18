@@ -1,2 +1,3 @@
 # ns.do
-Short is good.
+
+Transient Second-level domain. Short is good.
