@@ -1,3 +1,3 @@
 # ns.do
 
-Transient Second-level domain. Short is good.
+A Transient Subdomain. Short is good.
